@@ -1,0 +1,25 @@
+{
+  "name": "avalanche.io",
+  "version": "1.0.0",
+  "description": "Class with chainable async methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmdiego/avalanche.io.git"
+  },
+  "keywords": [
+    "class",
+    "promise",
+    "async",
+    "chainable"
+  ],
+  "author": "Juan Manuel Diego González <jmdiego.mcie@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jmdiego/avalanche.io/issues"
+  },
+  "homepage": "https://github.com/jmdiego/avalanche.io#readme"
+}
